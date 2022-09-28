@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:WpfAppForGit"
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Margin="0,0,443,251">
+        <Button Margin="362,0,-362,0">btn1</Button>
+        <Label>lb1</Label>
     </Grid>
 </Window>
