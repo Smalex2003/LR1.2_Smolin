@@ -33,5 +33,15 @@ namespace WpfAppForGit
         {
 
         }
+
+        private void Button_KeyDown(object sender, KeyEventArgs e)
+        {
+
+        }
+
+        private void Label_KeyUp(object sender, KeyEventArgs e)
+        {
+
+        }
     }
 }

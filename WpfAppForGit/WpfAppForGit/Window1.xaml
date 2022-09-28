@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800">
     <Grid Margin="0,0,443,251">
-        <Button Margin="362,0,-362,0" Click="Button_Click">btn1</Button>
-        <Label KeyDown="Label_KeyDown">lb1</Label>
+        <Button Margin="362,0,-362,0" Click="Button_Click" KeyDown="Button_KeyDown" >btn1</Button>
+        <Label KeyDown="Label_KeyDown" KeyUp="Label_KeyUp">lb1</Label>
     </Grid>
 </Window>
