@@ -23,5 +23,15 @@ namespace WpfAppForGit
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Label_KeyDown(object sender, KeyEventArgs e)
+        {
+
+        }
     }
 }
